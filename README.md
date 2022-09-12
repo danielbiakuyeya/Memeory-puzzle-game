@@ -1,2 +1,2 @@
 # Memeory-puzzle-game
-Memory puzzle game built with HTML,CSS &amp; JavaScript
+A basic memory puzzle game built with HTML,CSS &amp; JavaScript
