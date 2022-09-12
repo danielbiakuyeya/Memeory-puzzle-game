@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+.Grid{
+    height: 300px;
+    width: 400px;
+    border: solid black 1px;
+}
+
+.score-line{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+}
